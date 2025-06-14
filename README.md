@@ -1,1 +1,1 @@
-Download the file and start access it via the homepage.html
+Download the file and start accessing it via the homepage.html
